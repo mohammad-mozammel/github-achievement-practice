@@ -9,3 +9,7 @@ This README was updated through a feature branch and pull request.
 ## Second contribution
 
 A second independent pull request keeps the workflow history clear.
+
+## Third contribution
+
+This change demonstrates a self-reviewed pull request workflow.
