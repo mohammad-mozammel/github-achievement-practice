@@ -8,8 +8,9 @@ This README was updated through a feature branch and pull request.
 
 ## Second contribution
 
-A second independent pull request keeps            
+A second independent pull request             
 
 
 
 
+  
