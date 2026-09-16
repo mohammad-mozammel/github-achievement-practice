@@ -8,7 +8,7 @@ This README was updated through a feature branch and pull request.
 
 ## Second contribution
 
-A second independent pull request keeps the workflow 
+A second independent pull request keeps the 
 
 
 
