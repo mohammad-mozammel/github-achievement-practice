@@ -12,4 +12,4 @@ A second independent pull request keeps the workflow history clear.
 
 ## Third contribution
 
-This change demonstrates a self-reviewed pull request workflow.
+
